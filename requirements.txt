@@ -1,0 +1,5 @@
+openai==0.27.0
+streamlit==1.20.0
+googlesearch-python==1.1.0
+dataclasses==0.6
+datetime==4.3
